@@ -1,5 +1,3 @@
-# .github
-
 # Arcadia Studio
 
 Arcadia Studio builds practical AI systems for real business operations.
